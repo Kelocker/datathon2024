@@ -1,1 +1,5 @@
 venvat
+numpy
+pandas
+matplotlib
+seaborn
